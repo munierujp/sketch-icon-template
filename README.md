@@ -1,4 +1,4 @@
-# sketch-template-icon
+# sketch-icon-template
 
 Icon template for Sketch
 
